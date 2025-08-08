@@ -59,6 +59,9 @@ python3 -m http.server 8000
 ```
 Open http://localhost:8000, click Connect, pick your Arduino port, and keep baud at 9600.
 
+Preview
+![Web UI preview](./webUI.png)
+
 ### Advanced details
 - Sensor fundamentals (DHT11)
   - Supply: 3.3–5.0 V; typical: 5 V on Arduino Uno
